@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TelmoGomes04
-- 👀 I’m interested in make mony
+- 👀 I’m interested in make money
 - 🌱 I’m currently learning Unreal(AR,VR,MR,3D) ,Unity(Web-AR) ,babylons.js ,Maya ...
 - 💞️ I’m dont looking to collaborate
 - 📫 How to reach me :In the night
